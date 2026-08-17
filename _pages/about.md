@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiashen Ren is a Ph.D. student in **Data Science** at the [Applied Machine Learning Lab (AML Lab)](https://aml-cityu.github.io/), Department of Data Science, [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). He received dual Bachelor of Science degrees in Electrical Engineering from Zhejiang University and the University of Illinois at Urbana-Champaign through the ZJU-UIUC Institute, where he worked with [Prof. Qingchun Hou](https://person.zju.edu.cn/en/houqingchun). His research interests include **Machine Learning** and **Optimization**.
+Jiashen Ren is a Ph.D. student in **Data Science** at the [Applied Machine Learning Lab (AML Lab)](https://aml-cityu.github.io/), Department of Data Science, [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/). He received dual Bachelor of Science degrees in Electrical Engineering from Zhejiang University and the University of Illinois at Urbana-Champaign through the ZJU-UIUC Institute, where he worked with [Prof. Qingchun Hou](https://person.zju.edu.cn/en/houqingchun). His research interests include **Human-centered Artificial Intelligence** and **LLM Security**.
 
 📄 [CV](files/resume.pdf)
 
